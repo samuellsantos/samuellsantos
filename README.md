@@ -14,8 +14,8 @@
   <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg">
   <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg">
   <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg">
-  <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg">
   <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg">
+    <img align="center" alt="Samuka-CSS" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Jest.svg">
   
   <br>
 
