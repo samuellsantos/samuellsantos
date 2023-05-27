@@ -1,5 +1,13 @@
+
+  <img src="https://previews.123rf.com/images/artinspiring/artinspiring1909/artinspiring190900998/130370493-frontend-development-web-banner-concept-website-interface.jpg" align="center" width="900" >
+
 <h1 align="center">Hi 👋, I'm Samuell</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
+- 🌱 I’m currently learning **React TS/JS**
+
+- 📫 How to reach me **Samuellsantoscontato@outlook.com**
+
+<img width="400" align="right" alt="coding" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
